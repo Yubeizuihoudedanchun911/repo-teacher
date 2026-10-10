@@ -1,0 +1,20 @@
+{
+  "name": "repo-teacher-local",
+  "interface": {
+    "displayName": "Repo Teacher 本地插件"
+  },
+  "plugins": [
+    {
+      "name": "repo-teacher",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

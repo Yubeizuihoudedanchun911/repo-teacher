@@ -1,0 +1,23 @@
+name: Tool or plugin bug
+description: Report a reproducible problem in Repo Teacher.
+title: "[Bug] "
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+      description: Include the Repo Teacher version and the relevant host or Python version.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Minimal reproduction
+      description: Use anonymized inputs and remove credentials or private source.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Repository type and verification scope
+      description: Describe what was available and which checks actually ran.

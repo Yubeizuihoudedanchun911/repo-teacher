@@ -1,0 +1,16 @@
+# Local edit records and caches
+**/.weaver/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.zip
+
+# Private configuration; the deliberately empty test fixture is public.
+.env
+.env.*
+!tests/fixtures/repo/.env
+node_modules/
+!tests/fixtures/repo/node_modules/
+!tests/fixtures/repo/node_modules/ignored.js

@@ -1,0 +1,23 @@
+name: Teaching feedback
+description: Identify the first step an explanation failed to make clear.
+title: "[Teaching] "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What were you trying to understand?
+      description: Briefly describe your background and learning goal.
+    validations:
+      required: true
+  - type: textarea
+    id: unclear
+    attributes:
+      label: First unclear passage
+      description: Share a short anonymized passage and the missing prerequisite, actor, state, or result.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Available material
+      description: Link public evidence or describe the repository type and access limits.

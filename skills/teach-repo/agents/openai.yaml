@@ -1,0 +1,6 @@
+interface:
+  display_name: "仓库教学"
+  short_description: "从真实代码生成初读者能理解的工程教学文档，并核对证据与探索范围"
+  default_prompt: "使用 $teach-repo 讲清这个仓库的主流程、特殊文件、数据变化和关键设计。"
+policy:
+  allow_implicit_invocation: true

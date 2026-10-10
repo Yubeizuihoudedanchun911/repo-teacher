@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "question": "system.file 如何变成云端 Agent 配置",
+  "repository_revision": "574ed3624aebd0418c7e96cd101262f30210ab26",
+  "semantic_scope": "GL Reconciler deployment preparation only",
+  "modules": [
+    {
+      "module": "scripts/deploy-managed-agent.sh",
+      "status": "traced",
+      "scope": "configuration parsing, prompt transformation, skill upload preparation, recursive resource creation, final output"
+    },
+    {
+      "module": "managed-agent-cookbooks/gl-reconciler/agent.yaml",
+      "status": "traced",
+      "scope": "main configuration fields and local references"
+    },
+    {
+      "module": "cloud agent session and tool execution",
+      "status": "external",
+      "gap": "not executed or implemented in the inspected deploy script"
+    },
+    {
+      "module": "other business agents, handoff orchestration and Office",
+      "status": "not-explored",
+      "gap": "outside this example"
+    }
+  ],
+  "verification": {
+    "source_references": "checked",
+    "live_deployment": "not-run",
+    "mermaid_render": "not-verified",
+    "learner_comprehension": "not-assessed"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "name": "repo-teacher",
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "bytes": 380,
+      "sha256": "ab8fc31a7eefda63cee50460ecb6a6e7d17a648711127e67e11288f880f4b141"
+    },
+    {
+      "path": ".codex-plugin/plugin.json",
+      "bytes": 1521,
+      "sha256": "76dcad889030707f74cd7847c18d1ea0dc0f5ab7fe192d54ae3b5d36059d2460"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "bytes": 719,
+      "sha256": "46c50397cd503216c8f8f547151d204f68348a7d46ee9caeed7d8b6f2a35d11c"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/teaching_feedback.yml",
+      "bytes": 741,
+      "sha256": "38f5557b9f267fd2daed811c83db9e7514bc854e0993a7969a786c1282fe9fb6"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "bytes": 354,
+      "sha256": "6e11d7c41feca36f3924b2250cd2d37f3021d9008db16bb2d499ce3b5d2e86fd"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 304,
+      "sha256": "68115e985ec4e856f911b574b04a043a63d7ecd5da22fa4f8a7ce96439555a84"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 648,
+      "sha256": "77f902f2ef12db19f9663c923e2b398e85f12a58c8282481bb865b44e5b3e59e"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "bytes": 890,
+      "sha256": "57d87e1c9e023369c7565eb8a267e2b42405136cd17e53f218a609f581b3cab9"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1704,
+      "sha256": "744fd91d587517f48cc02bc7a21aa2c015980656c1447154204f934c8c4d3f6a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1064,
+      "sha256": "ed8d4ae9b548ada79f8b6e4fec4a9bfe07de580efe28ed2ae1724818d27fbd6f"
+    },
+    {
+      "path": "LICENSES/Apache-2.0.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 803,
+      "sha256": "b1d96fe8cc40afe65dd1d8a62d84d225e3d1fbed823dfe431f2f02d89034d242"
+    },
+    {
+      "path": "PEDAGOGY.md",
+      "bytes": 2657,
+      "sha256": "59ae3e65307b3cfc9885edc0b621810ff8c2a417df609ba4064af5afd12d285c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6434,
+      "sha256": "6864affc7f23a4bb63645d4aa50ce7d613554470610008284fd95410f888468d"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "bytes": 5524,
+      "sha256": "fb0731a3222b7f49887ef88df969c758d04e27a1c3ff085e196845ea838db2ab"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1423,
+      "sha256": "4f4f9f8f357e1f2b561677f9cac84677c3b648a7d7c6cdcfa1dc6153bdc79054"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1941,
+      "sha256": "828b19292d6ffcd1c4eba385d57e3ad5b498c41747c23aaee4f851dba27666dd"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 3246,
+      "sha256": "e3136caa5f724e1b05ba3ae351199779a4d704c2f2d8348c2064e96bff0dbaf6"
+    },
+    {
+      "path": "examples/financial-services/GUIDE.md",
+      "bytes": 4309,
+      "sha256": "7a638cfe2aa3feefd2cdf31709fd5cbf086ea5374a7a70603d469763b7d408dd"
+    },
+    {
+      "path": "examples/financial-services/coverage.json",
+      "bytes": 1138,
+      "sha256": "8cb97e65037c893edee1e2b67701daeeb04de4f4ff417fdd7be117a63f772f55"
+    },
+    {
+      "path": "examples/financial-services/evidence.json",
+      "bytes": 2716,
+      "sha256": "53e0d850423016770186cb64075d006baef213d78fc8da67bf2058e67d9e963b"
+    },
+    {
+      "path": "plugin.json",
+      "bytes": 1687,
+      "sha256": "9875d67b5e5c91766d0f95cf6e2ecfbff0293a46e382228d1fa192053686336b"
+    },
+    {
+      "path": "skills/teach-repo/SKILL.md",
+      "bytes": 4473,
+      "sha256": "57ba46aeddf4d9906c985fdeb4ed8cd005840155097f16f61cdea4d292988cf8"
+    },
+    {
+      "path": "skills/teach-repo/agents/openai.yaml",
+      "bytes": 319,
+      "sha256": "b2a9aa768ef93bf88066faef13860086d8f277a30af38e495e84d04454178110"
+    },
+    {
+      "path": "skills/teach-repo/references/evidence.md",
+      "bytes": 4408,
+      "sha256": "d8347325e4a0b4df87b77e9db387b1057b3bbb3e94db986add2b2a0aed650eb7"
+    },
+    {
+      "path": "skills/teach-repo/references/large-repos.md",
+      "bytes": 3988,
+      "sha256": "bf789525d49fb317cf26507088e926fb5e02b609ef5a2249cc8574f2985fb0f3"
+    },
+    {
+      "path": "skills/teach-repo/references/repo-types.md",
+      "bytes": 3334,
+      "sha256": "4a353817ea5fef1857953741fe878b955ed157f7382c87f418805475ab5948b7"
+    },
+    {
+      "path": "skills/teach-repo/references/teaching.md",
+      "bytes": 5245,
+      "sha256": "4b476a18b3229b4add40889a71ea769d42e4dcb393ae98453f2f053d12f71209"
+    },
+    {
+      "path": "skills/teach-repo/scripts/check_lesson.py",
+      "bytes": 8385,
+      "sha256": "38ba6d9fd62a304e8d6323812e9d1cd3cd616426e95cc38424788b64672c4614"
+    },
+    {
+      "path": "skills/teach-repo/scripts/inspect_repo.py",
+      "bytes": 6329,
+      "sha256": "a2d83541d6ef44e56b826ea3607456ccfb5f7d411944e731a31064fdc282faf8"
+    },
+    {
+      "path": "tests/fixtures/broken-basename-lines.md",
+      "bytes": 100,
+      "sha256": "b4e599dc8954c194cfe2257de8ce8a5ca8e21c8710c0ff5f96e626428a5f22a8"
+    },
+    {
+      "path": "tests/fixtures/broken-lesson.md",
+      "bytes": 65,
+      "sha256": "b28f47f470f17e238b65d89e1829d7840e38c834f07227eef13117b4189f23f3"
+    },
+    {
+      "path": "tests/fixtures/lesson-with-line.md",
+      "bytes": 85,
+      "sha256": "77227d78af5ad822b14129ecb5440071af88d812662abafe2b3ac400764b90fd"
+    },
+    {
+      "path": "tests/fixtures/lesson.md",
+      "bytes": 111,
+      "sha256": "64d2f56d36db0d9a646e97f6baa4ef995a86ce546b3167a6cc550cbbcaaba354"
+    },
+    {
+      "path": "tests/fixtures/repo/.env",
+      "bytes": 63,
+      "sha256": "d82c73dc7775387f64864b7346809ef4b68e4adb7a4de799cea5f4123abae9d9"
+    },
+    {
+      "path": "tests/fixtures/repo/README.md",
+      "bytes": 95,
+      "sha256": "9d0a830d9b88f4b1e19428d176df56e43dbd52d9d4229797d67fe99c739649fb"
+    },
+    {
+      "path": "tests/fixtures/repo/node_modules/ignored.js",
+      "bytes": 59,
+      "sha256": "1a1d00c84607267b393dc17883d6c9c664584ff8a5e27100feb0556760d8187c"
+    },
+    {
+      "path": "tests/fixtures/repo/package.json",
+      "bytes": 80,
+      "sha256": "1ead6ec276f4d83f61a71c4f48568fc83831d2802298335757d4112c4d45686e"
+    },
+    {
+      "path": "tests/fixtures/repo/src/main.py",
+      "bytes": 55,
+      "sha256": "6bcf66a1a801b88e4466b03b4f88ccd057302c5d98517f3611dc888527064899"
+    },
+    {
+      "path": "tests/fixtures/repo/src/worker.py",
+      "bytes": 51,
+      "sha256": "e103ff0b73980def61792f3b1460136b6d9c1260b6a653217b91fb0fef29b79c"
+    },
+    {
+      "path": "tests/test_tools.py",
+      "bytes": 5002,
+      "sha256": "537b2671d8e10abdd10579ce2445e238e1d1902943351d4cd4e515c22f11f898"
+    }
+  ],
+  "hash_index_excludes": [
+    "PACKAGE-CONTENTS.json"
+  ],
+  "archive_excludes": [
+    ".git/",
+    ".weaver/",
+    "__pycache__/",
+    "runtime caches"
+  ]
+}

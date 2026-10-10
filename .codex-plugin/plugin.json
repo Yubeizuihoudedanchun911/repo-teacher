@@ -1,0 +1,38 @@
+{
+  "name": "repo-teacher",
+  "version": "0.1.0",
+  "description": "从真实仓库生成适合未读过源码者的教学文档，并改写难懂的工程讲解；支持大型仓库的分层探索与证据核对。",
+  "author": {
+    "name": "Junling",
+    "url": "https://github.com/Yubeizuihoudedanchun911"
+  },
+  "license": "MIT",
+  "keywords": [
+    "repository",
+    "teaching",
+    "onboarding",
+    "architecture",
+    "monorepo",
+    "documentation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Repo Teacher",
+    "shortDescription": "从仓库理解系统，生成清楚可核对的教学文档",
+    "longDescription": "用贯穿案例解释文件用途、配置变化、调用链、状态与数据流。大型仓库先建立模块地图，再追踪代表链路；明确已核实范围、外部依赖与运行证据。可选配合 Archify，缺少绘图技能时使用 Mermaid。",
+    "developerName": "Junling",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "使用 $teach-repo 为这个仓库生成不需要先读源码就能理解的教学文档。",
+      "使用 $teach-repo 改写这份看不懂的工程讲解，并核对实际实现。"
+    ],
+    "brandColor": "#246750",
+    "websiteURL": "https://github.com/Yubeizuihoudedanchun911/repo-teacher"
+  },
+  "repository": "https://github.com/Yubeizuihoudedanchun911/repo-teacher",
+  "homepage": "https://github.com/Yubeizuihoudedanchun911/repo-teacher"
+}

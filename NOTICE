@@ -1,0 +1,16 @@
+Repo Teacher
+Copyright (c) 2026 Junling
+
+Original Repo Teacher workflows, tools, fixtures, and documentation are
+licensed under the MIT License, except where separately identified.
+
+The YAML excerpt in examples/financial-services/GUIDE.md comes from
+anthropics/financial-services, copyright its contributors, licensed under
+Apache License 2.0. The example adds original explanations and a diagram;
+upstream deployment scripts and skill packages are not redistributed.
+The full upstream license is in LICENSES/Apache-2.0.txt.
+Source revision: 574ed3624aebd0418c7e96cd101262f30210ab26.
+
+CMU Eberly Center learning principles are cited as conceptual references.
+CMU webpage text, illustrations, and logos are not bundled or relicensed.
+See PEDAGOGY.md and THIRD_PARTY_NOTICES.md for attribution and scope.
